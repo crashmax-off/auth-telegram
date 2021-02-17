@@ -1,3 +1,4 @@
 vendor
-.idea
-examples/env.php
+.vscode
+test/config.php
+composer.lock
