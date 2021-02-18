@@ -1,4 +1,4 @@
 vendor
 .vscode
-test/config.php
+src/config.php
 composer.lock
